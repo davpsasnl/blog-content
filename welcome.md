@@ -1,5 +1,5 @@
 ---
-title: Welcome to Our School Blog
+title: Welcome to Our New School Blog
 date: 2026-01-31
 author: Soumyadip Karforma
 ---
